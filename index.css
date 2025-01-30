@@ -105,7 +105,7 @@
   .container-bottom1 {
      background-color: #dfd9fd;
     padding: 20px;
-    margin: 10px;
+    margin: 4px;
     border: 5px solid #5b5eb5;
     flex: 4;
     height: 100px;
@@ -113,7 +113,7 @@
   .container-bottom2 {
     background-color: #ffd5b3;
     padding: 20px;
-    margin: 10px;
+    margin: 4px;
     border: 5px solid #fa766c;
     flex: 2;
     
@@ -121,18 +121,16 @@
   .container-bottom3 {
     background-color: #ffd5b3;
     padding: 20px;
-    margin: 10px;
+    margin: 4px;
     border: 5px solid #fa766c;
     flex: 2;
-    height: 100px;
   }
   .container-bottom4 {
     background-color: #dfd9fd;
     padding: 20px;
-    margin: 10px;
+    margin: 4px;
     border: 5px solid #5b5eb5;
     flex: 4;
-    height: 100px;
   }
   
   h1 {
